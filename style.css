@@ -1,0 +1,16 @@
+body{
+    background-color: darkgrey;
+    color: black;
+}
+header{
+    background-color: black;
+    color: rgb(247, 240, 240);
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: rgb(247, 240, 240);
+    padding: 20px;
+    text-align: center;
+}
